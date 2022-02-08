@@ -1,4 +1,4 @@
 package main
-fun main(){
+fun mainMain(){
 
 }
